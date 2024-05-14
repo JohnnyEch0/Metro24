@@ -1,15 +1,9 @@
 id,x,y,trains, layout
-0,37,17,None,horizontal
-1,7,18,None,horizontal
-2,43,25,None,horizontal
-3,5,7,None,horizontal
-4,4,25,None,horizontal
-5,43,14,None,horizontal
-6,16,16,None,horizontal
-7,28,15,None,horizontal
-8,42,23,None,horizontal
-9,20,25,None,horizontal
-10,35,25,None,horizontal
-11,28,24,None,horizontal
-12,39,5,None,horizontal
-13,22,8,None,horizontal
+0,39,12,None,basic
+1,5,14,None,basic
+2,9,5,None,basic
+3,30,6,None,basic
+4,13,21,None,basic
+5,42,4,None,basic
+6,35,23,None,basic
+7,20,8,None,basic

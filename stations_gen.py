@@ -169,10 +169,6 @@ def clear_station_coverage(station, stations, map):
     station.coverage = 0
 
     # print("Station Covaerage Cleared", station.x, station.y, "Coverage", station.coverage, "Points", len(station.coverage_points))
-            
-
-
-
 
 def check_overlapping(x, y, layout, coordinates):
 
